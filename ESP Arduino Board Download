@@ -1,0 +1,2 @@
+File>Preferences(ctrl+comma)>Additional Boards Manager URLs:https://arduino.esp8266.com/stable/package_esp8266com_index.json
+Tools>Board>Boards manager>Search:esp8266>Install
